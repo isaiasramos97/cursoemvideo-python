@@ -5,4 +5,3 @@ A2 = float(input('Nota Av2: '))
 media = (A1 + A2) / 2
 
 print(f'\nA média do aluno é {media:.2f}')
-print((A1 + A2) / 2)
